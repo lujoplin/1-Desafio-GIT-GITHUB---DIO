@@ -1,0 +1,35 @@
+### Lista dos principais comandos GIT
+
+- **“dir”** - listas de diretórios dentro da pasta
+
+- **"cd /”** - navegue entre as pastas
+
+- **“cd..”** -  voltar nas pastas
+
+- **“cls”** - limpar o terminal /tela 
+
+- **“mkdir”** - criar pasta 
+
+- **"git init"** - cria de fato um repositório
+
+- **"git add"** - adicionas modificações arquivo
+
+- **"git commit"** - git commit -m commit inicial
+
+- **"git status"** - situação do arquivo
+
+- **"git push origen master "**- empurrar para o github
+
+- **"git pull"**  - puxar para sua máquina 
+
+  - **"git clone"**
+
+  
+
+  
+
+  Link para download git: https://git-scm.com/
+
+  
+
+  
